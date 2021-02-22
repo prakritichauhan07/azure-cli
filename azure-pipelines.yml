@@ -850,4 +850,3 @@ jobs:
       displayName: "Install pip and wheel"
     - bash: ./scripts/ci/test_ref_doc.sh
       displayName: "Verify Sphinx Document Generator"
-
